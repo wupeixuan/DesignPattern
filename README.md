@@ -11,3 +11,6 @@
 ## 简单工厂模式
 [简单工厂模式实例](https://github.com/wupeixuan/DesignPattern/tree/master/src/com/wpx/simplefactory)
 [简单工厂模式讲解](http://www.cnblogs.com/wupeixuan/p/8645734.html)
+## 工厂方法模式
+[工厂方法模式实例](https://github.com/wupeixuan/DesignPattern/tree/master/src/com/wpx/factorymethod)
+[工厂方法模式讲解](http://www.cnblogs.com/wupeixuan/p/8647003.html)
